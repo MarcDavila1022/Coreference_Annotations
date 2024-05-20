@@ -1,2 +1,2 @@
-# Coreference_Annotations
+# Coreference Annotations
 This contains the coreference annotations for Spanish literature.
